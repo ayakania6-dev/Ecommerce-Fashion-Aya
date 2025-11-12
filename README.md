@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/luxe-fashion](https://github.com/yourusername/luxe-fashion)
+Project Link: [https://github.com/yourusername/luxe-fashion](https://ayafashion.netlify.app/)
 
 ---
 
